@@ -1,0 +1,2 @@
+# pensamentocompacional
+paginainterneti
